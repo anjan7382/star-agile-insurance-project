@@ -1,4 +1,4 @@
-package com.project.staragile.insureme;
+package com.project.anjan.Hello World;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InsureMeApplicationTests {
+class HelloWorldController {
 
 	@Test
 	void contextLoads() {
